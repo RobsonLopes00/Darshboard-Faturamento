@@ -1,0 +1,20 @@
+Unidade,Supervisor,Analista,Ano,Faturado
+CE,Ana Maria,Vanessa,2024,2597.00
+SP,Ana Maria,Jorge,2025,2246.00
+SP,Pedro Renato,Sara,2025,1033.00
+AM,Ana Maria,Luan,2024,2564.00
+RJ,Pedro Renato,João,2025,2556.00
+MG,Pedro Renato,Sara,2024,1981.00
+CE,Ana Maria,Luciana,2024,2099.00
+BA,Ana Maria,Vanessa,2025,2973.00
+CE,Ana Maria,Michele,2024,2155.00
+AM,Ana Maria,Jorge,2025,1099.00
+MG,Ana Maria,Luciana,2025,1494.00
+RJ,Pedro Renato,Sara,2024,1463.00
+AM,Ana Maria,Luciana,2024,2717.00
+RJ,Pedro Renato,Sara,2025,1856.00
+MG,Ana Maria,Luciana,2025,1166.00
+MG,Pedro Renato,Sara,2024,2477.00
+SP,Ana Maria,Luan,2024,1784.00
+MG,Pedro Renato,João,2025,1856.00
+CE,Ana Maria,Luan,2025,1952.00
